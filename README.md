@@ -1,3 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Andrey8Meteor/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Andrey8Meteor/frontend-project-44/actions)
 ghjdthrf gei
+
+brain-even
+![alt text](img/image1.png)
