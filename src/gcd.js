@@ -13,7 +13,7 @@ const getGsd = (firstValue, secondValue) => {
 const getGame = () => {
   const num1 = getRandomNum(1, 100);
   const num2 = getRandomNum(1, 100);
-  const question1 = `${num1} ${num2}.`;
+  const question1 = `${num1} ${num2}`;
   const correctAns = getGsd(num1, num2).toString;
 
   return [question1, correctAns];
