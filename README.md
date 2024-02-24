@@ -48,16 +48,16 @@ brain-even
 #Демонстрация игр:
 
 Brain-even
-![All text] (img/image.png)
+![All text](img/image.png)
 
 Brain-calc
-![All text] (img/image2.png)
+![All text](img/image2.png)
 
 Brain-progression
-![All text] (img/image3.png)
+![All text](img/image3.png)
 
 Brain-prime
-![All text] (img/image4.png)
+![All text](img/image4.png)
 
 Brain-gcd
-![All text] (img/image5.png)
+![All text](img/image5.png)
